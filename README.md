@@ -1,7 +1,7 @@
 # classroom_head_up_statistical_analysis_system
 前端项目基于[d2admin](https://github.com/d2-projects/d2-admin-start-kit)  
 后端项目基于fastapi
-
+建议npm版本在6~8之间，个人版本6.13.4
 # 前端启动项
 npm install  
 npm run start
